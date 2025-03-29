@@ -1,3 +1,5 @@
 # Hello
 
-This is a test init as I figure out how on earth git works
+This is the place where I host some assets for my modrinth page [Animated Items](https://modrinth.com/resourcepack/animateditems).
+
+Made by Etomic
